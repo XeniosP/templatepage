@@ -1,5 +1,3 @@
-# Template webpage
-
 This is a temporary home for www.papademetris.com
 
 ## Links
