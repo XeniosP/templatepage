@@ -4,4 +4,4 @@ This is a temporary home for www.papademetris.com
 
 ## Links
 
-* [www.papademetris.net](Αρχείο Παναγιώτη Παπαδημήτρη)
+* [Αρχείο Παναγιώτη Παπαδημήτρη](www.papademetris.net)
