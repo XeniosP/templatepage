@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+
+{% seo %}
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+
+
+    <style media="screen" type="text/css">
+      .main-content hr {
+        background-color: rgb(28,45,64);
+        height: 2px;
+      }
+    </style>
+  </head>
+  <body>
+    <section class="page-header" style="background-color: rgb(255,255,255);
+                                        background-image: none;">
+    </section>
+
+    <section class="main-content">
+      {{ content }}
+
+
+
+    <HR>
+    </section>
+  </body>
+</html>
